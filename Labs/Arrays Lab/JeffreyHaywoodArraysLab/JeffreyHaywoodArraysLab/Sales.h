@@ -1,0 +1,1 @@
+double Average(double s[]);
